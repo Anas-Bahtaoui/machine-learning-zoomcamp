@@ -25,3 +25,7 @@ __pycache__/
 
 **midterms_evaluations/
 **samples/
+
+# virtual env
+
+venv/
